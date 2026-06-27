@@ -14,11 +14,10 @@ Integrantes:
 Andrei Rodrigues
 Saulo Freitas
 Eduardo Victor
-Turma: A
+Turma A
 
 Temas escolhidos
 Trabalho A — Listas Simples
-
 Responsável: Eduardo Victor
 
 Tema: A definir
@@ -45,7 +44,18 @@ salvar e carregar CSV permitem manter os dados armazenados.
 Trabalho C — Filas Simples
 Responsável: Saulo Freitas
 
-Tema: A confirmar
+Tema escolhido: Atendimento Bancário
+
+O Trabalho C simula um sistema de atendimento bancário utilizando filas.
+O programa trabalha com senhas normais e preferenciais. Cada senha possui número, tipo e horário de chegada.
+A estrutura principal do trabalho envolve o uso de filas com vetor de struct, controlando a entrada e a saída dos elementos conforme a ordem de atendimento.
+
+No programa:
+senhas normais entram na fila normal;
+senhas preferenciais entram na fila preferencial;
+o atendimento segue uma regra definida para chamar os clientes;
+se uma fila estiver vazia, o sistema continua atendendo pela fila que ainda possui elementos;
+os dados podem ser listados, salvos e carregados por arquivo CSV.
 
 Organização do repositório
 Trabalho_Final_Estruturas_Dados/
