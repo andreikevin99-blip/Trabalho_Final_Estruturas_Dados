@@ -51,7 +51,6 @@ Organização do repositório
 Trabalho_Final_Estruturas_Dados/
 │
 ├── README.md
-├── relatorio.md
 │
 ├── Trabalho_A/
 │   ├── trabalho_a.c
